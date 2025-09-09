@@ -1,3 +1,3 @@
 const name='andrew'
 const id=453;
-const libelities='private jet';
+const morte_libelities='private jet';
