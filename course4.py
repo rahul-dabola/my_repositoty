@@ -1,4 +1,4 @@
 name='rahul'
-degree='btech'
+degree_types='btech'
 roll_no=42
 address='new tehri'
